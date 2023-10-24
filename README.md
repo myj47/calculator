@@ -1,1 +1,1 @@
-Installation: npm i calculator_myj1
+npm i calculator_myj1
